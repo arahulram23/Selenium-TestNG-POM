@@ -1,0 +1,5 @@
+com\qa\base\BaseFunction.class
+com\qa\pages\AdminPage.class
+com\qa\pages\HomePageElements.class
+com\qa\pages\LoginPageElements.class
+com\qa\pages\PageObjectManager.class
